@@ -1,0 +1,75 @@
+.button-right {
+	margin-left: 97%;
+	padding: 5px;
+ }
+ 
+ .shop-card {
+	margin: 10px;
+	padding: 10px;
+	width: 30%;
+	float: left;
+	background-color: whitesmoke;
+	text-align: center;
+ }
+ 
+ .shop-item {
+	margin: 2px;
+	padding: 2px;
+	width: 99%;
+	height: 130px;
+	background-color: whitesmoke;
+ }
+ 
+ .shop-item img {
+	float: left;
+	height: 100%;
+	width: auto;
+	padding-right: 10%;
+ }
+ 
+ .shop-item span {
+	width: 19%;
+	margin-top: 60px;
+	float: left;
+	text-align: left;
+ }
+ 
+ .shop-item h2 {
+	margin-top: 50px;
+	width: 18%;
+	text-align: left;
+	float: left;
+ }
+ 
+ .shop-card img {
+	width: 100%;
+ }
+ 
+ .left-span {
+	color: red;
+	float: left;
+	margin-left: 25px;
+ }
+ 
+ .right-span {
+	color: red;
+	float: right;
+	width: auto;
+	margin-right: 25px;
+	border: solid 1px red;
+	border-radius: 20px;
+ }
+ 
+ .right-span-item {
+	float: right;
+	margin-top: 50px;
+	margin-right: 10px;
+	color: red;
+	border: solid 1px red;
+	border-radius: 20px;
+	width: fit-content;
+ }
+ 
+ .color {
+	color: red;
+ }
